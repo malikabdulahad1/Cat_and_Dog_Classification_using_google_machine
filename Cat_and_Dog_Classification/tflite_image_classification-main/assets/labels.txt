@@ -1,0 +1,3 @@
+0 german-shepherd
+1 Alaskan_Malamute
+2 bull-dog
